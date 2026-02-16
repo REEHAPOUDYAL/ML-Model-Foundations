@@ -1,5 +1,5 @@
 cat <<EOF > README.md
-# Foundations of Machine Learning from Scratch
+# Foundation of Machine Learning from Scratch
 
 ## 1. Project Overview
 [cite_start]**mlcore** is a custom-built Machine Learning library implemented entirely from first principles using **NumPy**[cite: 151, 152]. [cite_start]This project demonstrates technical mastery in mathematical optimization, numerical stability, and modular software architecture, intentionally avoiding high-level frameworks like Scikit-Learn to focus on low-level algorithmic logic[cite: 151, 152, 292].
